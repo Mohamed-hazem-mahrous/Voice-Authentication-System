@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Team Members](#Team-Members)
 - [Features](#features)
 - [Picture Overview](#Picture-Overview)
 - [Requirements](#requirements)
@@ -12,6 +13,14 @@
 
 ## Introduction
 This Python desktop application utilizes voice fingerprint and spectrogram technology to identify individuals based on their unique vocal characteristics. The system can be trained on up to 8 individuals and operates in two distinct modes to ensure secure access.
+
+## Team Members
+The following team members have contributed to this project:
+- Mohamed Hazem Yehya
+- Assem Hussein
+- Kyrolos Emad
+- Arsany Maged
+
 
 ## Features
 The Voice Authentication System app have 2 modes:
